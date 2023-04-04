@@ -1,2 +1,2 @@
 # WPS
-write WPS base on Qt Creator.
+Write WPS base on Qt Creator.
